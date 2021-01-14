@@ -13,9 +13,6 @@ on:
       - master
 
  
-  workflow_dispatch:
-
- 
 jobs:
   my_ci_step:
     runs-on: ubuntu-latest
